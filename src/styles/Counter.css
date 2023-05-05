@@ -1,0 +1,8 @@
+.count {
+    font-size: 26px;
+}
+.count__btn {
+    padding: 10px 15px;
+    margin-right: 20px;
+    cursor: pointer;
+}
